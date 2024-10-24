@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizqi Ferdhinandirto</h1>
 <h3 align="center">A passionate frontend developer, network engginer and prompter engginer from Indonesia</h3>
 
-<img src="https://media1.tenor.com/m/6vXhQSyB6L4AAAAC/celebration-sleep.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/6vXhQSyB6L4AAAAC/celebration-sleep.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfdito&label=Profile%20views&color=0e75b6&style=flat" alt="mrfdito" /> </p>
 
